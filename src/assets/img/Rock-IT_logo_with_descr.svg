@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="33px" viewBox="0 0 105 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Rock-IT_logo_with_descr</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 37.125 105.518 37.125 105.518 0 0 0"></polygon>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-557.000000, -222.000000)">
+            <g id="Rock-IT_logo_with_descr" transform="translate(557.000000, 219.000000)">
+                <path d="M13.8111,18.772 C15.4781,18.321 16.8751,17.442 17.9571,16.045 C19.0831,14.626 19.6241,13.004 19.6241,11.202 C19.6461,9.016 18.8801,7.213 17.3711,5.704 C15.8611,4.194 14.0371,3.406 11.8961,3.406 L3.8301,3.406 L0.8561,3.406 L0.0001,3.406 L4.7311,9.489 L4.7541,9.489 L8.7871,14.671 L12.6171,14.671 L7.8861,8.588 L7.8631,8.588 L6.1441,6.38 L11.8961,6.38 C13.2251,6.38 14.3741,6.853 15.2751,7.777 C16.2221,8.723 16.6951,9.85 16.6951,11.202 C16.6951,12.531 16.2221,13.68 15.2751,14.626 C14.3741,15.572 13.2251,16.045 11.8961,16.045 L6.0161,16.045 L3.0641,16.045 L3.0641,16.113 L3.0641,25.711 L6.0161,25.711 L6.0161,19.02 C6.0161,19.02 11.6931,18.952 12.1661,18.952 C13.2931,18.952 13.8111,18.772 13.8111,18.772" id="Fill-1" fill="#FFFFFF"></path>
+                <polygon id="Fill-3" fill="#FFFFFF" points="15.7716 20.3037 11.9406 20.3037 15.9966 25.7107 19.8266 25.7107"></polygon>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <text id="Recruitment-agency" mask="url(#mask-2)" font-family="GillSans-SemiBold, Gill Sans" font-size="5.8314" font-weight="500" letter-spacing="-0.026628" fill="#FFFFFF">
+                    <tspan x="2.249" y="33.7108915">R</tspan>
+                    <tspan x="5.86130227" y="33.7108915" letter-spacing="0.09">ecruitment agency</tspan>
+                </text>
+                <text id="o" mask="url(#mask-2)" font-family="Stark" font-size="30.0227" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="20.8027" y="25.6417318">o</tspan>
+                </text>
+                <text id="ck" mask="url(#mask-2)" font-family="Stark" font-size="30.0227" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="38.2759114" y="25.6417318">ck</tspan>
+                </text>
+                <text id="-IT" mask="url(#mask-2)" font-family="Stark" font-size="30.0227" font-weight="normal" letter-spacing="0.290227" fill="#FFFFFF">
+                    <tspan x="67.5180212" y="25.6417318">-</tspan>
+                    <tspan x="80.5678957" y="25.6417318" letter-spacing="-0.01">IT</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

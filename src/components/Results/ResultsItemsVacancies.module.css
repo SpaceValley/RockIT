@@ -1,0 +1,56 @@
+.Row {
+  font-size: 10px;
+  line-height: 3;
+  border-top: 1px solid #f4f4f4;
+}
+.FirstColumn {
+  padding-right: 0.875rem;
+}
+.Platform {
+  color: #5d9fd2;
+  cursor: pointer;
+}
+.Row:hover {
+  background-color: #f5f5f5;
+}
+.Company {
+  color: #5d9fd2;
+  cursor: pointer;
+}
+.StatusClosed::before {
+  display: block;
+  content: url("../../assets/icons/ban-solid.svg");
+  width: 0.875rem;
+  height: 0.75rem;
+  position: relative;
+  bottom: 0.375rem;
+  left: 1.125rem;
+}
+.StatusClosed::after:hover {
+  content: attr(title);
+}
+.StatusPending::before {
+  display: block;
+  content: url("../../assets/icons/pending-solid.svg");
+  width: 14px;
+  height: 12px;
+  position: relative;
+  bottom: 0.375rem;
+  left: 1.125rem;
+}
+.StatusPending::after:hover {
+  content: attr(title);
+}
+
+.StatusOpen::before {
+  display: block;
+  content: url("../../assets/icons/open-solid.svg");
+  width: 14px;
+  height: 12px;
+  position: relative;
+  bottom: 0.375rem;
+  left: 1.125rem;
+}
+.StatusOpen::after:hover {
+  content: attr(title);
+}

@@ -1,0 +1,10 @@
+.label::before {
+  content: none;
+}
+.Textarea {
+  width: 100%;
+  border-radius: 0.25rem;
+  border: 1px solid #e4e7ea;
+  color: #5c6873;
+  height: 300px;
+}

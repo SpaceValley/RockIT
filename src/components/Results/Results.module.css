@@ -1,0 +1,65 @@
+.ResultsWrapper {
+  width: 100%;
+}
+.Title {
+  padding-right: 10px;
+  font-size: 1.5rem;
+  width: 15%;
+}
+.Count {
+  font-size: 24px;
+  color: #7c8a97;
+}
+.List_candidates {
+  margin-top: 1rem;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 0px 2px 5px -3px rgba(0, 0, 0, 0.75);
+}
+.List_companies {
+  margin-top: 1rem;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  border-radius: 4px;
+}
+.Table_vacancies {
+  margin-top: 1rem;
+  width: 100%;
+  padding: 0 1rem;
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 0px 2px 5px -3px rgba(0, 0, 0, 0.75);
+}
+.List_vacancies {
+  width: 100%;
+  text-align: start;
+}
+.List_vacancies_title {
+  font-weight: 600;
+  line-height: 3;
+}
+.FirstColumn {
+  padding-right: 0.875rem;
+}
+
+.List_contacts_wrapper {
+  margin: 1rem 0 1rem;
+}
+.List_contacts {
+  margin: 1rem 0 1rem;
+
+  background-color: #ffffff;
+  border-radius: 4px;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}

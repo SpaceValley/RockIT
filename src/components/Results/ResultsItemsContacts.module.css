@@ -1,0 +1,85 @@
+.Items_wrapper {
+  padding: 1rem;
+  border-bottom: 1px solid #dddddd;
+  color: #777777;
+  width: 25%;
+}
+.Name {
+  margin-bottom: 0.5rem;
+  color: #22272c;
+  font-weight: 700;
+  font-size: 0.875rem;
+}
+.Text {
+  margin: 0;
+  font-size: 0.75rem;
+  font-weight: 300;
+}
+.Name::before {
+  display: block;
+  content: url("../../assets/icons/contacts/user-solid.svg");
+  width: 0.75rem;
+  height: 0.875rem;
+  position: relative;
+  top: 0.9375rem;
+  right: 1.25rem;
+}
+.Company::before {
+  display: block;
+  content: url("../../assets/icons/contacts/building-solid.svg");
+  width: 0.75rem;
+  height: 0.875rem;
+  position: relative;
+  top: 0.9375rem;
+  right: 1.25rem;
+}
+.Mail::before {
+  display: block;
+  content: url("../../assets/icons/contacts/envelope-regular.svg");
+  width: 0.75rem;
+  height: 0.875rem;
+  position: relative;
+  top: 0.9375rem;
+  right: 1.25rem;
+}
+.PhoneNone {
+  display: none;
+}
+.SkypeNone {
+  display: none;
+}
+.Phone::before {
+  display: block;
+  content: url("../../assets/icons/contacts/phone-solid.svg");
+  width: 0.75rem;
+  height: 0.875rem;
+  position: relative;
+  top: 0.9375rem;
+  right: 1.25rem;
+}
+.Skype::before {
+  display: block;
+  content: url("../../assets/icons/contacts/skype-brands.svg");
+  width: 0.75rem;
+  height: 0.875rem;
+  position: relative;
+  top: 0.9375rem;
+  right: 1.25rem;
+}
+
+@media (max-width: 1240px) {
+  .Items_wrapper {
+    width: 33%;
+  }
+}
+@media (max-width: 1024px) {
+  .Items_wrapper {
+    width: 50%;
+  }
+}
+
+@media (max-width: 640px) {
+  .Items_wrapper {
+    width: 100%;
+  }
+}

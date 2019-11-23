@@ -1,0 +1,54 @@
+.Item_candidates {
+  width: 25%;
+  font-size: 14px;
+  padding: 1rem;
+  text-align: center;
+  word-wrap: break-word;
+  color: #999999;
+}
+
+.Name {
+  color: #444444;
+  margin: 0;
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-decoration: none;
+}
+.Name:hover {
+  color: #999999;
+}
+
+.Platform {
+  margin: 0.4375rem;
+  font-weight: 700;
+}
+.Text {
+  margin: 0;
+  font-size: 0.75rem;
+}
+
+.Count {
+  font-size: 22px;
+  color: #a8a9aa;
+  font-weight: 300;
+}
+.Img {
+  width: 40px;
+}
+
+@media (max-width: 960px) {
+  .Item_candidates {
+    width: 33%;
+  }
+}
+@media (max-width: 768px) {
+  .Item_candidates {
+    width: 50%;
+  }
+}
+
+@media (max-width: 540px) {
+  .Item_candidates {
+    width: 100%;
+  }
+}

@@ -1,0 +1,41 @@
+/* .btn {
+  display: inline-block;
+  margin-right: 3px;
+}
+
+.block_inupt {
+  position: relative;
+  margin-bottom: 5px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+
+.pull-left {
+  margin-bottom: 10px;
+} */
+
+.contacts-col-icons-wrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.contact-icon {
+  margin-right: .5em;
+}
+
+.search-wrap {
+  margin-bottom: 7px;
+}
+
+.filter-select {
+  margin-top: 20px;
+}
+
+.date-filter-label {
+  color: #73818f;
+  font-size: 14px;
+  margin-bottom: 0;
+}
